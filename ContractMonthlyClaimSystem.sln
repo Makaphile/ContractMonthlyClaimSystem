@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractMonthlyClaimSystem", "ContractMonthlyClaimSystem.csproj", "{5619D83B-ECE6-4BAC-BADA-B5839D4A71D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5619D83B-ECE6-4BAC-BADA-B5839D4A71D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5619D83B-ECE6-4BAC-BADA-B5839D4A71D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5619D83B-ECE6-4BAC-BADA-B5839D4A71D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5619D83B-ECE6-4BAC-BADA-B5839D4A71D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140941D2-B62E-4037-B3AB-17536A3CF9BA}
+	EndGlobalSection
+EndGlobal
